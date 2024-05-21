@@ -38,4 +38,6 @@ const InputBody = () => {
   )
 }
 
-let type: string | number = ''
+Input.Body = InputBody
+
+export default Input
